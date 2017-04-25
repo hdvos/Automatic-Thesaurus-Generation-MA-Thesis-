@@ -1,5 +1,5 @@
-filename = "/media/hdevos/5452B30B52B2F0BA/MA Thesis/patternmodels/wikicorpus_patternmodel.tab"
-outfilename = "/media/hdevos/5452B30B52B2F0BA/MA Thesis/patternmodels/wikicorpus_patternmodel_good.tab"
+filename = # Filename of the Patternmodel
+outfilename = # Filename of the 'cleaned' Patternmodel
 
 with open(filename, 'rt') as f:
     data = f.readlines()
