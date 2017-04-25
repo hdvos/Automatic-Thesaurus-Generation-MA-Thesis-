@@ -1,0 +1,3 @@
+Lemmatize Legal corpus and Background Corpus
+Remove stopwords
+POS-tags
